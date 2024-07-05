@@ -1,4 +1,6 @@
-﻿namespace _7kyu
+﻿using System;
+
+namespace _7kyu
 {
     internal class Program
     {

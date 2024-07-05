@@ -8,8 +8,13 @@ namespace _7kyu.Tests
         [InlineData("What are you, a communist?", "Wht r y,  cmmnst?")]
         public void DisemvowelTrollsTest(string str, string expected)
         {
-            string disemvowel = DisemvowelTrolls.DisemvowelTrolls.Disemvowel(str);
-            Assert.Equal(expected, disemvowel);
+            // Arrange
+
+            // Act
+            string actual = DisemvowelTrolls.DisemvowelTrolls.Disemvowel(str);
+
+            //Assert
+            Assert.Equal(expected, actual);
         }
     }
 }
