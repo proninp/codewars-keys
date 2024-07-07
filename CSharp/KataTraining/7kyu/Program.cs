@@ -6,7 +6,6 @@ namespace _7kyu
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
         }
     }
 }
