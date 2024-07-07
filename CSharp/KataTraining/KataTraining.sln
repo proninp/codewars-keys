@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7kyu", "7kyu\7kyu.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7kyu.Tests", "7kyu.Tests\7kyu.Tests.csproj", "{185C07E4-644D-4A63-9AA4-3825E1D561CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6kyu", "6kyu\6kyu.csproj", "{23052AA7-8CB2-4658-9366-748105EA98DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6kyu", "6kyu\6kyu.csproj", "{23052AA7-8CB2-4658-9366-748105EA98DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6kyu.Tests", "6kyu.Tests\6kyu.Tests.csproj", "{1FDB9A98-AFB9-45E0-91A4-1DDE7251168A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6kyu.Tests", "6kyu.Tests\6kyu.Tests.csproj", "{1FDB9A98-AFB9-45E0-91A4-1DDE7251168A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
