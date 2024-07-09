@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _5kyu.IndeOfArrayInArray
+namespace _6kyu.IndeOfArrayInArray
 {
     public class IndexOfArrayInArray
     {

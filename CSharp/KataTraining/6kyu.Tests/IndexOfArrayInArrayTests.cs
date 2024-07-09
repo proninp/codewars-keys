@@ -1,6 +1,6 @@
-using _5kyu.IndeOfArrayInArray;
+using _6kyu.IndeOfArrayInArray;
 
-namespace _5kyu.Tests
+namespace _6kyu.Tests
 {
     public class IndexOfArrayInArrayTests
     {
