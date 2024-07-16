@@ -6,6 +6,7 @@ namespace _6kyu
     {
         public static void Main(string[] args)
         {
+            
         }
     }
 }
