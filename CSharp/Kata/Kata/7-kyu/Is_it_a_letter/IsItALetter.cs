@@ -1,4 +1,4 @@
-﻿namespace _7kyu.Is_it_a_letter
+﻿namespace Kata._7_kyu.Is_it_a_letter
 {
     public class IsItALetter
     {
