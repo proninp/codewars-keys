@@ -5,11 +5,24 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GenerateProgramFile>false</GenerateProgramFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="6-kyu\" />
-    <Folder Include="7-kyu\" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.10.0" />
+    <PackageReference Include="NUnit" Version="4.1.0" />
+    <PackageReference Include="NUnit.ConsoleRunner" Version="3.18.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="7-kyu\Count_the_divisors_of_a_number\test\" />
+    <Folder Include="7-kyu\Disemvowel_Trolls\test\" />
+    <Folder Include="7-kyu\Number_Pairs\test\" />
+    <Folder Include="7-kyu\Simple_beads_count\test\" />
+    <Folder Include="7-kyu\Simple_Fun_176_Reverse_Letter\test\" />
+    <Folder Include="7-kyu\Sort_the_Gift_Code\test\" />
+    <Folder Include="7-kyu\The_highest_profit_wins\test\" />
   </ItemGroup>
 
 </Project>
