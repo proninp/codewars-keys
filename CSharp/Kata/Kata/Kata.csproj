@@ -19,7 +19,6 @@
     <Folder Include="7-kyu\Count_the_divisors_of_a_number\test\" />
     <Folder Include="7-kyu\Disemvowel_Trolls\test\" />
     <Folder Include="7-kyu\Number_Pairs\test\" />
-    <Folder Include="7-kyu\Simple_beads_count\test\" />
     <Folder Include="7-kyu\Simple_Fun_176_Reverse_Letter\test\" />
     <Folder Include="7-kyu\Sort_the_Gift_Code\test\" />
     <Folder Include="7-kyu\The_highest_profit_wins\test\" />
