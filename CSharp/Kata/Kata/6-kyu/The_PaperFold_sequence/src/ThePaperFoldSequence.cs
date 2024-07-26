@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Kata._6_kyu.The_PaperFold_sequence
+namespace Kata._6_kyu.The_PaperFold_sequence.src
 {
     public class ThePaperFoldSequence
     {

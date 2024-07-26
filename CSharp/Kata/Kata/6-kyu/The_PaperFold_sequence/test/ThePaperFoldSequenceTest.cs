@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using Kata._6_kyu.The_PaperFold_sequence.src;
+using NUnit.Framework;
 using NUnit.Framework.Legacy;
 using System.Collections.Generic;
 using System.Linq;
