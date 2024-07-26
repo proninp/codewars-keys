@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq;
 
-namespace Kata._6_kyu.Simple_Fun_97_Video_Part
+namespace Kata._6_kyu.Simple_Fun_97_Video_Part.src
 {
     public class SimpleFun97VideoPart
     {
-        public static int[] VideoPart(string part, string total)
+        public int[] VideoPart(string part, string total)
         {
             var totals = total.Split(":").Select(int.Parse).ToArray();
             var totalSec = totals[0] * 60 * 60 + totals[1] * 60 + totals[2];
