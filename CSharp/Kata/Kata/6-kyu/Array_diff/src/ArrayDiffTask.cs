@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Linq;
 
-namespace Kata._6_kyu.Array_diff
+namespace Kata._6_kyu.Array_diff.src
 {
-    public class Array_diff
+    public class ArrayDiffTask
     {
         public static int[] ArrayDiff(int[] a, int[] b) =>
             a.Where(e => !b.Contains(e)).ToArray();
