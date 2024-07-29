@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Kata._6_kyu.Create_Phone_Number
+namespace Kata._6_kyu.Create_Phone_Number.src
 {
     public class CreatePhoneNumberTask
     {
