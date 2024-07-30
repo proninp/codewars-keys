@@ -1,4 +1,4 @@
-﻿namespace Kata._6_kyu.Multiples_of_3_or_5
+﻿namespace Kata._6_kyu.Multiples_of_3_or_5.src
 {
     public class MultiplesOf3Or5
     {
