@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Kata._6_kyu.IndexOf_Array_in_Array
+namespace Kata._6_kyu.IndexOf_Array_in_Array.src
 {
     public class IndexOfArrayInArray
     {
