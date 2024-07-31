@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Kata._5_kyu.RGB_To_Hex_Conversion
+namespace Kata._5_kyu.RGB_To_Hex_Conversion.src
 {
     public class RGBToHexConversion
     {
