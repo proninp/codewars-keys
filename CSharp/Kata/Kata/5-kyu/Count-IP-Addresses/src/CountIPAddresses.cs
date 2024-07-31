@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Kata._5_kyu.Count_IP_Addresses
+namespace Kata._5_kyu.Count_IP_Addresses.src
 {
     public class CountIPAddresses
     {
