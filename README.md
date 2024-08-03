@@ -1,2 +1,0 @@
-# Codewars
-codewars.com
