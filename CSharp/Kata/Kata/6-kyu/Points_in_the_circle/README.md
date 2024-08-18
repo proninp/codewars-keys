@@ -8,4 +8,4 @@ Example: for `radius = 2` the result should be `13`.
 
 `0 <= radius <= 1000`
 
-![example](res/pointsinthecircle.jpg)
+![example](res/pointsinthecircle.png)
