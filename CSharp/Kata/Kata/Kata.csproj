@@ -22,4 +22,10 @@
     <Folder Include="7-kyu\The_highest_profit_wins\test\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="KataReadmeBuilder">
+      <HintPath>..\Lib\KataReadmeBuilder.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
