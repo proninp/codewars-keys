@@ -24,8 +24,7 @@
 
   <ItemGroup>
     <Reference Include="KataReadmeBuilder">
-      <HintPath>..\Lib\KataReadmeBuilder.dll</HintPath>
+      <HintPath>$(KATA_README_BUILDER)</HintPath>
     </Reference>
   </ItemGroup>
-
 </Project>
