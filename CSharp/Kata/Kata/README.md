@@ -63,6 +63,7 @@
 - [The Office III - Broken Photocopier](7-kyu/The_Office_III_Broken_Photocopier)
 - [The PaperFold sequence](6-kyu/The_PaperFold_sequence)
 - [The Supermarket Queue](6-kyu/The_Supermarket_Queue)
+- [Two to One](7-kyu/Two_to_One)
 # W
 - [WeIrD StRiNg CaSe](6-kyu/WeIrD_StRiNg_CaSe)
 - [What century is it?](6-kyu/What_century_is_it)
