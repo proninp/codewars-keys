@@ -42,6 +42,7 @@
 # P
 - [Perimeter of squares in a rectangle](5-kyu/Perimeter-of-squares-in-a-rectangle)
 - [Points in the circle](6-kyu/Points_in_the_circle)
+- [Progressive Spiral Number Position](7-kyu/Progressive_Spiral_Number_Position)
 # R
 - [Ragbaby cipher](6-kyu/Ragbaby_cipher)
 - [Return the Missing Element](7-kyu/Return_the_Missing_Element)
