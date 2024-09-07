@@ -57,6 +57,7 @@
 - [StringAverage](6-kyu/String_average)
 - [Sum Consecutive Sum](6-kyu/Sum_Consecutive_Sum)
 - [Sum of a sequence](7-kyu/Sum_of_a_sequence)
+- [Sum of Digits / Digital Root](6-kyu/Sum_of_Digits_Digital_Root)
 - [Super Duper Easy](8-kyu/Super_Duper_Easy)
 # T
 - [The Baum-Sweet sequence](7-kyu/The_Baum_Sweet_sequence)
