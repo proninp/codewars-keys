@@ -9,3 +9,7 @@ The repository contains a collection of C# solutions to Codewars challenges, gro
 Each kata is organized in a separate folder named by its slug and accompanied by a task description,
 a solution source code, and verification tests. All solutions were solved
 on [the official platform](https://www.codewars.com) and verified against the original test suite.
+
+<ins>For quick access</ins>, use the index table or search the repository by kata URL, name, or Id.
+
+**Note:** The source code is written in .NET 8 and may use language features that are incompatible with older versions.
