@@ -23,8 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="KataReadmeBuilder">
-      <HintPath>$(KATA_README_BUILDER)</HintPath>
-    </Reference>
+    <ProjectReference Include="..\KataDocsBuilder\KataDocsBuilder.csproj" />
   </ItemGroup>
 </Project>

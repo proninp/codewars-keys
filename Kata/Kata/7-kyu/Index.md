@@ -27,6 +27,9 @@
 # N
 - [Number Pairs](7-kyu/Number_Pairs)
 
+# P
+- [Progressive Spiral Number Position](7-kyu/Progressive_Spiral_Number_Position)
+
 # R
 - [Return the Missing Element](7-kyu/Return_the_Missing_Element)
 - [Rotate for a Max](7-kyu/Rotate_for_a_Max)
@@ -41,4 +44,5 @@
 - [The Baum-Sweet sequence](7-kyu/The_Baum_Sweet_sequence)
 - [The highest profit wins!](7-kyu/The_highest_profit_wins)
 - [The Office III - Broken Photocopier](7-kyu/The_Office_III_Broken_Photocopier)
+- [Two to One](7-kyu/Two_to_One)
 

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\ReadmeEnd.md" />
+    <None Remove="Resources\ReadmeStart.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\ReadmeEnd.md" />
+    <EmbeddedResource Include="Resources\ReadmeStart.md" />
+  </ItemGroup>
+
+</Project>
