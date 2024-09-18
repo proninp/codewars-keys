@@ -82,6 +82,7 @@
 - [The Office III - Broken Photocopier](7-kyu/The_Office_III_Broken_Photocopier)
 - [The PaperFold sequence](6-kyu/The_PaperFold_sequence)
 - [The Supermarket Queue](6-kyu/The_Supermarket_Queue)
+- [Tic-Tac-Toe Checker](5-kyu/Tic_Tac_Toe_Checker)
 - [Two to One](7-kyu/Two_to_One)
 
 # W
