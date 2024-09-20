@@ -1,4 +1,4 @@
-# [Check three and two](https://www.codewars.com/kata/5a9e86705ee396d6be000091/solutions/csharp)
+# [Check three and two](https://www.codewars.com/kata/5a9e86705ee396d6be000091)
 
 Given an array with exactly 5 strings `"a"`, `"b"` or `"c"` (`char`s in Java, `characters` in Fortran),
 check if the array contains three and two of the same values.
