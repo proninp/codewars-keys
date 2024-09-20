@@ -5,6 +5,7 @@
 # B
 - [Basics 08: Find next higher number with same Bits (1's)](6-kyu/Basics_08_Find_next_higher_number_with_same_Bits_1s)
 - [Break camelCase](6-kyu/Break_camelCase)
+- [By 3, or not by 3? That is the question . . .](7-kyu/By_3_or_not_by_3_That_is_the_question)
 
 # C
 - [Check three and two](7-kyu/Check_three_and_two)

@@ -1,4 +1,7 @@
-﻿# C
+﻿# B
+- [By 3, or not by 3? That is the question . . .](7-kyu/By_3_or_not_by_3_That_is_the_question)
+
+# C
 - [Check three and two](7-kyu/Check_three_and_two)
 - [Count the divisors of a number](7-kyu/Count_the_divisors_of_a_number)
 
