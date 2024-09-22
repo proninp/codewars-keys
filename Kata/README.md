@@ -60,6 +60,7 @@
 
 # R
 - [Ragbaby cipher](6-kyu/Ragbaby_cipher)
+- [Return the first M multiples of N](7-kyu/Return_the_first_M_multiples_of_N)
 - [Return the Missing Element](7-kyu/Return_the_Missing_Element)
 - [RGB To Hex Conversion](5-kyu/RGB-To-Hex-Conversion)
 - [Rotate for a Max](7-kyu/Rotate_for_a_Max)
