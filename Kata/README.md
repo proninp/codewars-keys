@@ -23,6 +23,7 @@
 - [Even or Odd](8-kyu/Even_or_Odd)
 
 # F
+- [Find Maximum and Minimum Values of a List](7-kyu/Find_Maximum_And_Minimum_Values_Of_A_List)
 - [Find the missing letter](6-kyu/Find_the_missing_letter)
 - [Find the Missing Number](7-kyu/Find_the_Missing_Number)
 - [Find the missing term in an Arithmetic Progression](6-kyu/Find_the_missing_term_in_an_Arithmetic_Progression)

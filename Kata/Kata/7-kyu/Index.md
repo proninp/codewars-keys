@@ -11,6 +11,7 @@
 - [Distance from the average](7-kyu/Distance_from_the_average)
 
 # F
+- [Find Maximum and Minimum Values of a List](7-kyu/Find_Maximum_And_Minimum_Values_Of_A_List)
 - [Find the Missing Number](7-kyu/Find_the_Missing_Number)
 - [Friend or Foe?](7-kyu/Friend_or_Foe)
 
