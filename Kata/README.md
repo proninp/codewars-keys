@@ -40,6 +40,7 @@
 
 # I
 - [IndexOf Array in Array](6-kyu/IndexOf_Array_in_Array)
+- [IP Validation](6-kyu/IP_Validation)
 - [Is it a letter?](7-kyu/Is_it_a_letter)
 - [Is this a triangle?](7-kyu/Is_this_a_triangle)
 

@@ -20,6 +20,7 @@
 
 # I
 - [IndexOf Array in Array](6-kyu/IndexOf_Array_in_Array)
+- [IP Validation](6-kyu/IP_Validation)
 
 # M
 - [Multiples of 3 or 5](6-kyu/Multiples_of_3_or_5)
