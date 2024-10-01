@@ -29,6 +29,7 @@
 - [My Language Skills](7-kyu/My_Language_Skills)
 
 # N
+- [No oddities here](7-kyu/No_oddities_here)
 - [Number Pairs](7-kyu/Number_Pairs)
 
 # P

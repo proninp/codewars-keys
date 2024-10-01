@@ -53,6 +53,7 @@
 
 # N
 - [Next smaller pronic](6-kyu/Next_smaller_pronic)
+- [No oddities here](7-kyu/No_oddities_here)
 - [Number Pairs](7-kyu/Number_Pairs)
 
 # P
