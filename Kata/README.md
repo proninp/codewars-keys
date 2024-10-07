@@ -72,6 +72,7 @@
 - [Simple beads count](7-kyu/Simple_beads_count)
 - [Simple Fun #176: Reverse Letter](7-kyu/Simple_Fun_176_Reverse_Letter)
 - [Simple Fun #97: Video Part](6-kyu/Simple_Fun_97_Video_Part)
+- [Simple string characters](7-kyu/Simple_string_characters)
 - [Sort the Gift Code](7-kyu/Sort_the_Gift_Code)
 - [Split Strings](6-kyu/Split_Strings)
 - [StringAverage](6-kyu/String_average)

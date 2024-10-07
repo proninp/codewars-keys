@@ -43,6 +43,7 @@
 # S
 - [Simple beads count](7-kyu/Simple_beads_count)
 - [Simple Fun #176: Reverse Letter](7-kyu/Simple_Fun_176_Reverse_Letter)
+- [Simple string characters](7-kyu/Simple_string_characters)
 - [Sort the Gift Code](7-kyu/Sort_the_Gift_Code)
 - [Sum of a sequence](7-kyu/Sum_of_a_sequence)
 
