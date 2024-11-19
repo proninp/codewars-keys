@@ -11,6 +11,7 @@
 - [Create Phone Number](6-kyu/Create_Phone_Number)
 
 # F
+- [Factorial](6-kyu/Factorial)
 - [Find the missing letter](6-kyu/Find_the_missing_letter)
 - [Find the missing term in an Arithmetic Progression](6-kyu/Find_the_missing_term_in_an_Arithmetic_Progression)
 - [Find the unique number](6-kyu/Find_the_unique_number)
