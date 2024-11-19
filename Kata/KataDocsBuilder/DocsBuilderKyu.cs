@@ -35,15 +35,15 @@ public partial class DocsBuilder
 
         var taskName = GetTaskName(line);
 
-        string taskUriPath = GetFileUri(file);
+        var uriTuple = GetFileUri(file);
 
-        if (string.IsNullOrEmpty(taskName) || string.IsNullOrEmpty(taskUriPath))
+        if (string.IsNullOrEmpty(taskName) || string.IsNullOrEmpty(uriTuple.readmeUri) || string.IsNullOrEmpty(uriTuple.indexUri))
             return;
 
         var firstSymbol = !char.IsDigit(taskName[0]) ? char.ToUpper(taskName[0]).ToString() : "\\#";
 
-        AddKeyValueToCollection(map, firstSymbol, taskName, taskUriPath);
-        AddKeyValueToCollection(combinedMap, firstSymbol, taskName, taskUriPath);
+        AddKeyValueToCollection(map, firstSymbol, taskName, uriTuple.indexUri);
+        AddKeyValueToCollection(combinedMap, firstSymbol, taskName, uriTuple.readmeUri);
     }
 
     private static string GetFileFirstLine(string fileName)
@@ -62,11 +62,13 @@ public partial class DocsBuilder
         return line.Substring(startIndex, endIndex - startIndex);
     }
 
-    private static string GetFileUri(string fileName)
+    private static (string readmeUri, string indexUri) GetFileUri(string fileName)
     {
         var directoryName = Path.GetDirectoryName(fileName) ?? string.Empty;
         Uri uri = new Uri(directoryName);
-        return Path.Combine(uri.Segments[^2], uri.Segments[^1]);
+        var readmeUri = Path.Combine(uri.Segments[^3], uri.Segments[^2], uri.Segments[^1]);
+        var indexUri = Path.Combine(uri.Segments[^2], uri.Segments[^1]);
+        return (readmeUri, indexUri);
     }
 
     private static void AddKeyValueToCollection(SortedDictionary<string, SortedDictionary<string, string>> map, string mainKey, string subKey, string value)
