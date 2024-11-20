@@ -33,6 +33,7 @@
 - [Friend or Foe?](Kata/7-kyu/Friend_or_Foe)
 
 # G
+- [Give me a Diamond](Kata/6-kyu/Give_me_a_Diamond)
 - [Good vs Evil](Kata/6-kyu/Good_vs_Evil)
 - [Grasshopper - Terminal game move function](Kata/8-kyu/Grasshopper_Terminal_game_move_function)
 
