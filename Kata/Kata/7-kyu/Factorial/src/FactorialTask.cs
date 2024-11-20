@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Kata._6_kyu.Factorial.src
+namespace Kata._7_kyu.Factorial.src
 {
     public class FactorialTask
     {

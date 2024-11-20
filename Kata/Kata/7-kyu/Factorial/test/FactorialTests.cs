@@ -1,4 +1,4 @@
-﻿using Kata._6_kyu.Factorial.src;
+﻿using Kata._7_kyu.Factorial.src;
 using NUnit.Framework;
 
 namespace Kata._6_kyu.Factorial.test;

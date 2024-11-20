@@ -23,7 +23,7 @@
 - [Even or Odd](Kata/8-kyu/Even_or_Odd)
 
 # F
-- [Factorial](Kata/6-kyu/Factorial)
+- [Factorial](Kata/7-kyu/Factorial)
 - [Find Maximum and Minimum Values of a List](Kata/7-kyu/Find_Maximum_And_Minimum_Values_Of_A_List)
 - [Find the missing letter](Kata/6-kyu/Find_the_missing_letter)
 - [Find the Missing Number](Kata/7-kyu/Find_the_Missing_Number)
