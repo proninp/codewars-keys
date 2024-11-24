@@ -14,6 +14,7 @@
 - [Find the missing letter](6-kyu/Find_the_missing_letter)
 - [Find the missing term in an Arithmetic Progression](6-kyu/Find_the_missing_term_in_an_Arithmetic_Progression)
 - [Find the unique number](6-kyu/Find_the_unique_number)
+- [Fun with trees: max sum](6-kyu/Fun_With_Trees_max_sum)
 
 # G
 - [Give me a Diamond](6-kyu/Give_me_a_Diamond)
