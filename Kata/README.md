@@ -83,6 +83,7 @@
 - [Sum of a sequence](Kata/7-kyu/Sum_of_a_sequence)
 - [Sum of Digits / Digital Root](Kata/6-kyu/Sum_of_Digits_Digital_Root)
 - [Sum Of Groups](Kata/6-kyu/Sum_Of_Groups)
+- [Sum The Tree](Kata/6-kyu/Sum_The_Tree)
 - [Super Duper Easy](Kata/8-kyu/Super_Duper_Easy)
 
 # T

@@ -43,6 +43,7 @@
 - [Sum Consecutive Sum](6-kyu/Sum_Consecutive_Sum)
 - [Sum of Digits / Digital Root](6-kyu/Sum_of_Digits_Digital_Root)
 - [Sum Of Groups](6-kyu/Sum_Of_Groups)
+- [Sum The Tree](6-kyu/Sum_The_Tree)
 
 # T
 - [The PaperFold sequence](6-kyu/The_PaperFold_sequence)
