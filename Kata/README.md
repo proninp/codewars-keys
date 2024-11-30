@@ -31,6 +31,7 @@
 - [Find the unique number](Kata/6-kyu/Find_the_unique_number)
 - [First non-repeating character](Kata/5-kyu/First_non-repeating_character)
 - [Friend or Foe?](Kata/7-kyu/Friend_or_Foe)
+- [Fun with trees: array to tree](Kata/5-kyu/Fun_with_trees_array_to_tree)
 - [Fun with trees: max sum](Kata/6-kyu/Fun_With_Trees_max_sum)
 
 # G
