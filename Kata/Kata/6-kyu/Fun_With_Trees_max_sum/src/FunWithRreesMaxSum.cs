@@ -3,7 +3,6 @@
 namespace Kata._6_kyu.Fun_With_Trees_max_sum.src;
 public class FunWithRreesMaxSum
 {
-    static int max = int.MinValue;
     public static int MaxSum(TreeNode root)
     {
         if (root is null)
