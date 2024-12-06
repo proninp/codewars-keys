@@ -4,6 +4,7 @@
 # F
 - [First non-repeating character](5-kyu/First_non-repeating_character)
 - [Fun with trees: array to tree](5-kyu/Fun_with_trees_array_to_tree)
+- [Fun with trees: is perfect](5-kyu/Fun_with_trees_is_perfect)
 
 # P
 - [Perimeter of squares in a rectangle](5-kyu/Perimeter-of-squares-in-a-rectangle)
