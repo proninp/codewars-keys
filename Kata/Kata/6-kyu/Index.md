@@ -22,6 +22,7 @@
 
 # I
 - [IndexOf Array in Array](6-kyu/IndexOf_Array_in_Array)
+- [Invert binary tree](6-kyu/Invert_binary_tree)
 - [IP Validation](6-kyu/IP_Validation)
 
 # M

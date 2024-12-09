@@ -45,6 +45,7 @@
 
 # I
 - [IndexOf Array in Array](Kata/6-kyu/IndexOf_Array_in_Array)
+- [Invert binary tree](Kata/6-kyu/Invert_binary_tree)
 - [IP Validation](Kata/6-kyu/IP_Validation)
 - [Is it a letter?](Kata/7-kyu/Is_it_a_letter)
 - [Is this a triangle?](Kata/7-kyu/Is_this_a_triangle)
