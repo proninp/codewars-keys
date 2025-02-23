@@ -32,6 +32,7 @@
 # N
 - [No oddities here](7-kyu/No_oddities_here)
 - [Number Pairs](7-kyu/Number_Pairs)
+- [Numbers to Letters](7-kyu/Number_%20to_Letters)
 
 # P
 - [Progressive Spiral Number Position](7-kyu/Progressive_Spiral_Number_Position)

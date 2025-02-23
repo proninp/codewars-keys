@@ -62,6 +62,7 @@
 - [Next smaller pronic](Kata/6-kyu/Next_smaller_pronic)
 - [No oddities here](Kata/7-kyu/No_oddities_here)
 - [Number Pairs](Kata/7-kyu/Number_Pairs)
+- [Numbers to Letters](Kata/7-kyu/Number_%20to_Letters)
 
 # P
 - [Perimeter of squares in a rectangle](Kata/5-kyu/Perimeter-of-squares-in-a-rectangle)
