@@ -18,6 +18,7 @@
 - [Descending Order](Kata/7-kyu/Descending_Order)
 - [Disemvowel Trolls](Kata/7-kyu/Disemvowel_Trolls)
 - [Distance from the average](Kata/7-kyu/Distance_from_the_average)
+- [Does my number look big in this?](Kata/6-kyu/Does_my_number_look_big_in_this)
 
 # E
 - [Even or Odd](Kata/8-kyu/Even_or_Odd)
