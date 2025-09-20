@@ -32,6 +32,7 @@
 - [Next smaller pronic](6-kyu/Next_smaller_pronic)
 
 # P
+- [Pentabonacci](6-kyu/Pentabonacci)
 - [Points in the circle](6-kyu/Points_in_the_circle)
 
 # R

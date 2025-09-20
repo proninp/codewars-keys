@@ -63,6 +63,7 @@
 - [Number Pairs](Kata/7-kyu/Number_Pairs)
 
 # P
+- [Pentabonacci](Kata/6-kyu/Pentabonacci)
 - [Perimeter of squares in a rectangle](Kata/5-kyu/Perimeter-of-squares-in-a-rectangle)
 - [Points in the circle](Kata/6-kyu/Points_in_the_circle)
 - [Progressive Spiral Number Position](Kata/7-kyu/Progressive_Spiral_Number_Position)
