@@ -18,6 +18,7 @@
 - [Descending Order](Kata/7-kyu/Descending_Order)
 - [Disemvowel Trolls](Kata/7-kyu/Disemvowel_Trolls)
 - [Distance from the average](Kata/7-kyu/Distance_from_the_average)
+- [Does my number look big in this?](Kata/6-kyu/Does_my_number_look_big_in_this)
 
 # E
 - [Even or Odd](Kata/8-kyu/Even_or_Odd)
@@ -61,6 +62,7 @@
 - [Next smaller pronic](Kata/6-kyu/Next_smaller_pronic)
 - [No oddities here](Kata/7-kyu/No_oddities_here)
 - [Number Pairs](Kata/7-kyu/Number_Pairs)
+- [Numbers to Letters](Kata/7-kyu/Number_%20to_Letters)
 
 # P
 - [Pentabonacci](Kata/6-kyu/Pentabonacci)

@@ -10,6 +10,9 @@
 - [Count characters in your string](6-kyu/Count_characters_in_your_string)
 - [Create Phone Number](6-kyu/Create_Phone_Number)
 
+# D
+- [Does my number look big in this?](6-kyu/Does_my_number_look_big_in_this)
+
 # F
 - [Find the missing letter](6-kyu/Find_the_missing_letter)
 - [Find the missing term in an Arithmetic Progression](6-kyu/Find_the_missing_term_in_an_Arithmetic_Progression)
