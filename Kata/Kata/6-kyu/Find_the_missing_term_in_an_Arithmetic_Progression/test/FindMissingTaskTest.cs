@@ -18,7 +18,10 @@ namespace Kata._6_kyu.Find_the_missing_term_in_an_Arithmetic_Progression.test
             }
         }
 
-        [Test, TestCaseSource("TestCases")]
+        [Test, TestCaseSource(nameof(TestCases))]
         public int Test(List<int> list) => FindMissingTask.FindMissing(list);
+        
+        [Test, TestCaseSource(nameof(TestCases))]
+        public int Test2(List<int> list) => FindMissingTask.FindMissing2(list);
     }
 }
