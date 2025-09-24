@@ -40,6 +40,7 @@
 - [Give me a Diamond](Kata/6-kyu/Give_me_a_Diamond)
 - [Good vs Evil](Kata/6-kyu/Good_vs_Evil)
 - [Grasshopper - Terminal game move function](Kata/8-kyu/Grasshopper_Terminal_game_move_function)
+- [Guess the array](Kata/6-kyu/Guess_the_array)
 
 # H
 - [Highest and Lowest](Kata/7-kyu/Highest_and_Lowest)
@@ -55,6 +56,7 @@
 - [Leap Years](Kata/7-kyu/Leap_Years)
 
 # M
+- [Most digits](Kata/7-kyu/Most_digits)
 - [Multiples of 3 or 5](Kata/6-kyu/Multiples_of_3_or_5)
 - [My Language Skills](Kata/7-kyu/My_Language_Skills)
 

@@ -27,6 +27,7 @@
 - [Leap Years](7-kyu/Leap_Years)
 
 # M
+- [Most digits](7-kyu/Most_digits)
 - [My Language Skills](7-kyu/My_Language_Skills)
 
 # N

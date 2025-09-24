@@ -22,6 +22,7 @@
 # G
 - [Give me a Diamond](6-kyu/Give_me_a_Diamond)
 - [Good vs Evil](6-kyu/Good_vs_Evil)
+- [Guess the array](6-kyu/Guess_the_array)
 
 # I
 - [IndexOf Array in Array](6-kyu/IndexOf_Array_in_Array)
