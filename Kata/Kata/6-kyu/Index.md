@@ -37,6 +37,7 @@
 
 # P
 - [Pentabonacci](6-kyu/Pentabonacci)
+- [Playing with passphrases](6-kyu/Playing_with_passphrases)
 - [Points in the circle](6-kyu/Points_in_the_circle)
 
 # R

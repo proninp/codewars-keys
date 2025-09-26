@@ -14,7 +14,7 @@ on [the official platform](https://www.codewars.com) and verified against the or
 
 | [1-kyu](../Kata/Kata/1-kyu/Index.md) | [2-kyu](../Kata/Kata/2-kyu/Index.md) | [3-kyu](../Kata/Kata/3-kyu/Index.md) | [4-kyu](../Kata/Kata/4-kyu/Index.md) | [5-kyu](../Kata/Kata/5-kyu/Index.md) | [6-kyu](../Kata/Kata/6-kyu/Index.md) | [7-kyu](../Kata/Kata/7-kyu/Index.md) | [8-kyu](../Kata/Kata/8-kyu/Index.md) |
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| 0 | 0 | 0 | 0 | 7 | 36 | 32 | 3 |
+| 0 | 0 | 0 | 0 | 7 | 37 | 32 | 3 |
 
 
 **Note:** The source code is written in .NET 8 and may use language features that are incompatible with older versions.
