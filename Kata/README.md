@@ -1,4 +1,5 @@
 ﻿# A
+- [Adding Binary Numbers](Kata/6-kyu/Adding_Binary_Numbers)
 - [Are we alternate?](Kata/6-kyu/Are_we_alternate)
 - [Array.diff](Kata/6-kyu/Array_diff)
 
