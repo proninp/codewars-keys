@@ -43,6 +43,7 @@
 
 # R
 - [Ragbaby cipher](6-kyu/Ragbaby_cipher)
+- [Reverse polish notation calculator](6-kyu/Reverse_polish_notation_calculator)
 
 # S
 - [Simple Fun #97: Video Part](6-kyu/Simple_Fun_97_Video_Part)

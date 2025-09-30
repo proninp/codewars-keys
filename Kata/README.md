@@ -78,6 +78,7 @@
 - [Ragbaby cipher](Kata/6-kyu/Ragbaby_cipher)
 - [Return the first M multiples of N](Kata/7-kyu/Return_the_first_M_multiples_of_N)
 - [Return the Missing Element](Kata/7-kyu/Return_the_Missing_Element)
+- [Reverse polish notation calculator](Kata/6-kyu/Reverse_polish_notation_calculator)
 - [RGB To Hex Conversion](Kata/5-kyu/RGB-To-Hex-Conversion)
 - [Rotate for a Max](Kata/7-kyu/Rotate_for_a_Max)
 
