@@ -30,6 +30,9 @@
 - [Invert binary tree](6-kyu/Invert_binary_tree)
 - [IP Validation](6-kyu/IP_Validation)
 
+# J
+- [Jewel Thief](6-kyu/Jewel_Thief)
+
 # M
 - [Multiples of 3 or 5](6-kyu/Multiples_of_3_or_5)
 

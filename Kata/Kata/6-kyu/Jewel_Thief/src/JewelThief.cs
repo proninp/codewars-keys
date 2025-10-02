@@ -6,42 +6,39 @@ namespace Kata._6_kyu.Jewel_Thief.src;
 
 class JewelThief
 {
+    private const int MinComb = 0, MaxComb = 99;
+    private const string Click = "click";
     public static int Crack(Safe safe)
     {
-        const string click = "click";
-        const int minComb = 0;
-        const int maxComb = 99;
-        var combinations = new string[3];
+        string[] known = ["L00", "L00", "L00"];
         var directions = new[] { 'L', 'R' };
-        for (var i = 0; i < combinations.Length; i++)
+        for (var i = 0; i < known.Length; i++)
         {
-            for (var j = minComb; j <= maxComb; j++)
+            foreach (var direction in directions)
             {
-                var isBreak = false;
-                var numCode = j.ToString().PadLeft(2, '0');
-                foreach (var direction in directions)
-                {
-                    var stepCode = string.Concat(direction, numCode);
-                    var combination = new StringBuilder();
-                    combination.Append(string.IsNullOrEmpty(combinations[0]) ? stepCode : combinations[0]);
-                    combination.Append('-');
-                    combination.Append(string.IsNullOrEmpty(combinations[1]) ? stepCode : combinations[1]);
-                    combination.Append('-');
-                    combination.Append(stepCode);
-                    var combinationAttempt = combination.ToString();
-                    var result = safe.Unlock(combinationAttempt);
-                    if (result.Length >= click.Length * (i + 1))
-                    {
-                        combinations[i] = stepCode;
-                        isBreak = true;
-                        break;
-                    }
-                }
-                if (isBreak)
-                    break; 
+                if (CrackWheel(safe, direction, known, i))
+                    break;
             }
         }
         return safe.Open();
+    }
+
+    private static bool CrackWheel(Safe safe, char direction, string[] known, int segment)
+    {
+        for (var i = MinComb; i <= MaxComb; i++)
+        {
+            var numCode = i.ToString("D2");
+                    
+            var candidate = string.Concat(direction, numCode);
+            known[segment] = candidate;
+            var combinationAttempt = string.Join('-', known);
+            var result = safe.Unlock(combinationAttempt);
+            if (result.Length >= Click.Length * (segment + 1))
+            {
+                return true;
+            }
+        }
+        return false;
     }
 }
 

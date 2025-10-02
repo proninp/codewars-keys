@@ -53,6 +53,9 @@
 - [Is it a letter?](Kata/7-kyu/Is_it_a_letter)
 - [Is this a triangle?](Kata/7-kyu/Is_this_a_triangle)
 
+# J
+- [Jewel Thief](Kata/6-kyu/Jewel_Thief)
+
 # L
 - [Leap Years](Kata/7-kyu/Leap_Years)
 
