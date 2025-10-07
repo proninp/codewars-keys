@@ -5,19 +5,29 @@
 
 ## Overview
 
-The repository contains a collection of C# solutions to Codewars challenges, grouped by kyū rank.
+The repository contains a collection of C#/Java solutions to Codewars challenges, grouped by kyū rank.
 Each kata is organized in a separate folder named by its slug and accompanied by a task description,
 a solution source code, and verification tests. All solutions were solved
 on [the official platform](https://www.codewars.com) and verified against the original test suite.
 
 <ins>For quick access</ins>, use the index table or search the repository by kata URL, name, or Id.
 
-| [1-kyu](../Kata/Kata/1-kyu/Index.md) | [2-kyu](../Kata/Kata/2-kyu/Index.md) | [3-kyu](../Kata/Kata/3-kyu/Index.md) | [4-kyu](../Kata/Kata/4-kyu/Index.md) | [5-kyu](../Kata/Kata/5-kyu/Index.md) | [6-kyu](../Kata/Kata/6-kyu/Index.md) | [7-kyu](../Kata/Kata/7-kyu/Index.md) | [8-kyu](../Kata/Kata/8-kyu/Index.md) |
+### 🟦 C# solutions
+
+| [1-kyu](../solutions/csharp/Kata/Kata/1-kyu/Index.md) | [2-kyu](../solutions/csharp/Kata/Kata/2-kyu/Index.md) | [3-kyu](../solutions/csharp/Kata/Kata/3-kyu/Index.md) | [4-kyu](../solutions/csharp/Kata/Kata/4-kyu/Index.md) | [5-kyu](../solutions/csharp/Kata/Kata/5-kyu/Index.md) | [6-kyu](../solutions/csharp/Kata/Kata/6-kyu/Index.md) | [7-kyu](../solutions/csharp/Kata/Kata/7-kyu/Index.md) | [8-kyu](../solutions/csharp/Kata/Kata/8-kyu/Index.md) |
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
 | 0 | 0 | 0 | 0 | 7 | 39 | 32 | 3 |
 
-
 **Note:** The source code is written in .NET 8 and may use language features that are incompatible with older versions.
+
+### ☕ Java solutions
+
+| [1-kyu](../solutions/java/Kata/1-kyu/Index.md) | [2-kyu](../solutions/java/Kata/2-kyu/Index.md) | [3-kyu](../solutions/java/Kata/3-kyu/Index.md) | [4-kyu](../solutions/java/Kata/4-kyu/Index.md) | [5-kyu](../solutions/java/Kata/5-kyu/Index.md) | [6-kyu](../solutions/java/Kata/6-kyu/Index.md) | [7-kyu](../solutions/java/Kata/7-kyu/Index.md) | [8-kyu](../solutions/java/Kata/8-kyu/Index.md) |
+|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+**Note:** The source code is written in Java 21 and may use language features that are incompatible with older versions.
 
 ## ⚠️ Disclaimer
 
