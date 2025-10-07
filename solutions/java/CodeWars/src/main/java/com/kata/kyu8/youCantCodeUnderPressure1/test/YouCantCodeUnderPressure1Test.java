@@ -1,6 +1,6 @@
-package com.codewarsKeys.kata.kyu8.youCantCodeUnderPressure1.test;
+package com.kata.kyu8.youCantCodeUnderPressure1.test;
 
-import com.codewarsKeys.kata.kyu8.youCantCodeUnderPressure1.main.YouCantCodeUnderPressure1;
+import com.kata.kyu8.youCantCodeUnderPressure1.main.YouCantCodeUnderPressure1;
 import org.junit.Assert;
 import org.junit.Test;
 
