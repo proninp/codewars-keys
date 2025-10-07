@@ -22,9 +22,9 @@ on [the official platform](https://www.codewars.com) and verified against the or
 
 ### ☕ Java solutions
 
-| [1-kyu](../solutions/java/Kata/1-kyu/Index.md) | [2-kyu](../solutions/java/Kata/2-kyu/Index.md) | [3-kyu](../solutions/java/Kata/3-kyu/Index.md) | [4-kyu](../solutions/java/Kata/4-kyu/Index.md) | [5-kyu](../solutions/java/Kata/5-kyu/Index.md) | [6-kyu](../solutions/java/Kata/6-kyu/Index.md) | [7-kyu](../solutions/java/Kata/7-kyu/Index.md) | [8-kyu](../solutions/java/Kata/8-kyu/Index.md) |
+| [1-kyu](../solutions/java/CodeWars/src/main/java/com/codewarsKeys/kata/kyu1/Index.md) | [2-kyu](../solutions/java/CodeWars/src/main/java/com/codewarsKeys/kata/kyu2/Index.md) | [3-kyu](../solutions/java/CodeWars/src/main/java/com/codewarsKeys/kata/kyu3/Index.md) | [4-kyu](../solutions/java/CodeWars/src/main/java/com/codewarsKeys/kata/kyu4/Index.md) | [5-kyu](../solutions/java/CodeWars/src/main/java/com/codewarsKeys/kata/kyu5/Index.md) | [6-kyu](../solutions/java/CodeWars/src/main/java/com/codewarsKeys/kata/kyu6/Index.md) | [7-kyu](../solutions/java/CodeWars/src/main/java/com/codewarsKeys/kata/kyu7/Index.md) | [8-kyu](../solutions/java/CodeWars/src/main/java/com/codewarsKeys/kata/kyu8/Index.md) |
 |:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 
 **Note:** The source code is written in Java 21 and may use language features that are incompatible with older versions.
