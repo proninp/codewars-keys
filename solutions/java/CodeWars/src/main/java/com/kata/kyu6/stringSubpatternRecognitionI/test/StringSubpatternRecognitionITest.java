@@ -1,4 +1,4 @@
-﻿package com.kata.kyu6.stringSubpatternRecognitionI.test;
+package com.kata.kyu6.stringSubpatternRecognitionI.test;
 
 import com.kata.kyu6.stringSubpatternRecognitionI.main.StringSubpatternRecognitionI;
 import org.junit.Test;

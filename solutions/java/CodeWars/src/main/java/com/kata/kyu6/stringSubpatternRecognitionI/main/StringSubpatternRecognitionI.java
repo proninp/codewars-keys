@@ -1,4 +1,4 @@
-﻿package com.kata.kyu6.stringSubpatternRecognitionI.main;
+package com.kata.kyu6.stringSubpatternRecognitionI.main;
 
 public class StringSubpatternRecognitionI {
     public static boolean hasSubpattern(String str) {
