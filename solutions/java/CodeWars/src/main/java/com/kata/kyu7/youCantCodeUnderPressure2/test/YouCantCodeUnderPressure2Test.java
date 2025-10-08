@@ -1,4 +1,4 @@
-﻿package com.kata.kyu7.youCantCodeUnderPressure2.test;
+package com.kata.kyu7.youCantCodeUnderPressure2.test;
 
 import com.kata.kyu7.youCantCodeUnderPressure2.main.YouCantCodeUnderPressure2;
 import org.junit.Test;
